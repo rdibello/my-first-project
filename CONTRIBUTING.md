@@ -1,4 +1,4 @@
-# How to Contribute
+# How to Contribute with Dave
 
 1. Fork the Project
 2. Work on a feature branch
